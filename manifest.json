@@ -2,7 +2,7 @@
   "name": "Umiya - Billing & Stock Management",
   "short_name": "Umiya",
   "description": "Billing, stock, and payments management for Umiya store",
-  "start_url": "./index.html",
+  "start_url": "./Umiya-Billing-Stock_7.html",
   "scope": "./",
   "display": "standalone",
   "orientation": "any",
